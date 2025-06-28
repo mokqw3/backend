@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables file
+.env
+
+# npm debug logs
+npm-debug.log*
+.npm/
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
